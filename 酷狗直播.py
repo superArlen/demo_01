@@ -3,7 +3,7 @@ import json
 import pymysql
 from time import sleep
 
-# 需要的数据(死循环获取)
+# 需要的数据(死循环获取) _李爽
 def getId(head):
     i = 0                 # 初始值为0
     while True:
