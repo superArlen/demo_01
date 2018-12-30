@@ -1,7 +1,7 @@
 import requests
 import json
 import pymysql
-# 获取需要的数据_测试1
+# 获取需要的数据_测试12
 def getId(url, head):
     i = 0
     while True:
